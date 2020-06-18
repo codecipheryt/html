@@ -2,14 +2,14 @@
 
 # Basic HTML Video 
 
-https://github.com/SoftwareWajih/html/tree/master/basics
+https://github.com/codecipheryt/html/blob/master/basics.md
 
 # Topics
 
-:bookmark: Intro https://github.com/SoftwareWajih/html/blob/master/intro.md
+:bookmark: Intro https://github.com/codecipheryt/html/blob/master/intro.md
 
-:bookmark: Editors https://github.com/SoftwareWajih/html/blob/master/editors.md
+:bookmark: Editors https://github.com/codecipheryt/html/blob/master/editors.md
 
-:bookmark: Syntax https://github.com/SoftwareWajih/html/blob/master/syntax.md
+:bookmark: Syntax https://github.com/codecipheryt/html/blob/master/syntax.md
 
-:bookmark: Basics https://github.com/SoftwareWajih/html/blob/master/basics.md
+:bookmark: Basics https://github.com/codecipheryt/html/blob/master/basics.md
