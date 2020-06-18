@@ -2,7 +2,7 @@
 
 # Basic HTML Video 
 
-https://github.com/codecipheryt/html/blob/master/basics.md
+https://github.com/codecipheryt/html/tree/master/basics
 
 # Topics
 
