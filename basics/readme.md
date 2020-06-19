@@ -65,7 +65,9 @@ To write html we use code editors there are multiple options to choose from exam
 
 # Body
 
-:loudspeaker: The < body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+:loudspeaker: The < body> element defines the document's body, and is a container for all the visible contents, such as headings, 
+
+paragraphs, images, hyperlinks, tables, lists, etc.
 
 # Headings
 
