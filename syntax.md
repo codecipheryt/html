@@ -6,9 +6,9 @@
 
 :loudspeaker: HTML is written in tags, the rule of using tags is.
 
-:loudspeaker: Start tag by < html >.
+:loudspeaker: Start tag by < html>.
 
-:loudspeaker: End tag by < / html >. 
+:loudspeaker: End tag by < / html>. 
 
 :loudspeaker: Always close tags otherwise the content will not be rendered properly.
 
