@@ -1,4 +1,4 @@
-# HTML Elements
+Elements
 
 :loudspeaker: An HTML element is defined by a start tag, some content, and an end tag.
 
