@@ -2,18 +2,26 @@
 
 :star: Shortuct VS Code For Creating HTML Syntax ! press tab
 
-:bulb: Example Explained
+:loudspeaker: An HTML element is defined by a start tag, some content, and an end tag.
 
-:pencil2: The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+:loudspeaker: HTML is written in tags, the rule of using tags is.
 
-:pencil2: The <html> element is the root element of an HTML page
+:loudspeaker: Start tag by < html >.
 
-:pencil2: The <head> element contains meta information about the HTML page
+:loudspeaker: End tag by < / html >. 
 
-:pencil2: The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+:loudspeaker: Always close tags otherwise the content will not be rendered properly.
 
-:pencil2: The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+:loudspeaker: The < !DOCTYPE html> declaration defines that this document is an HTML5 document
 
-:pencil2: The h1 element defines a large heading
+:loudspeaker: The < html> element is the root element of an HTML page
 
-:pencil2:The p element defines a paragraph
+:loudspeaker: The < head> element contains meta information about the HTML page
+
+:loudspeaker: The < title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+
+:loudspeaker: The < body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+:loudspeaker: The h1 element defines a large heading
+
+:loudspeaker: The p element defines a paragraph
