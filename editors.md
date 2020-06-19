@@ -1,5 +1,7 @@
 # Editors
 
+To write html we use code editors there are multiple options to choose from example.
+
 :pencil: VS Code  :computer: Download https://code.visualstudio.com/download
 
 :pencil: Atom  :computer: https://atom.io/
