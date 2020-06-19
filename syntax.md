@@ -12,16 +12,40 @@
 
 :loudspeaker: Always close tags otherwise the content will not be rendered properly.
 
+:loudspeaker: The visible part of the HTML document is between < body > and < /body >.
+
+# Doctype 
+
 :loudspeaker: The < !DOCTYPE html> declaration defines that this document is an HTML5 document
 
+:loudspeaker: All HTML documents must start with a document type declaration <!DOCTYPE>
+
+:loudspeaker: It must only appear once, at the top of the page (before any HTML tags).
+
+:loudspeaker: The <!DOCTYPE> declaration is not case sensitive.
+
+# HTML 
 :loudspeaker: The < html> element is the root element of an HTML page
+
+# Head
 
 :loudspeaker: The < head> element contains meta information about the HTML page
 
+# Title
+
 :loudspeaker: The < title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+
+# Body
 
 :loudspeaker: The < body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
-:loudspeaker: The h1 element defines a large heading
+# Headings
 
-:loudspeaker: The p element defines a paragraph
+:loudspeaker: HTML headings are defined with the < h1> to < h6> tags.
+
+:loudspeaker: < h1> defines the most important heading. < h6> defines the least important heading
+
+
+# Paragraphs
+
+:loudspeaker: HTML paragraphs are defined with the < p> tag
