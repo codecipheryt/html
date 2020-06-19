@@ -1,8 +1,6 @@
 # Syntax
 
-:star: Shortuct VS Code For Creating HTML Syntax ! press tab
-
-:loudspeaker: An HTML element is defined by a start tag, some content, and an end tag.
+:star: Shortuct For HTML Syntax VS Code type ! then press tab
 
 :loudspeaker: HTML is written in tags, the rule of using tags is.
 
