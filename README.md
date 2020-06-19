@@ -12,4 +12,4 @@ https://github.com/codecipheryt/html/tree/master/basics
 
 :bookmark: Syntax https://github.com/codecipheryt/html/blob/master/syntax.md
 
-:bookmark: Basics https://github.com/codecipheryt/html/blob/master/basics.md
+:bookmark: Elements https://github.com/codecipheryt/html/blob/master/elements.md
