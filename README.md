@@ -1,6 +1,6 @@
 # HTML
 
-# Basic HTML Video 
+# HTML Introduction & Basic Elements
 
 https://github.com/codecipheryt/html/tree/master/basics
 
